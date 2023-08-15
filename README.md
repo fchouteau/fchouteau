@@ -2,12 +2,18 @@
 
 <h3><b>About me</b></h3>
 
-- 👨‍💻 I work in Deep Learning 🤖 applied to  Earth Observation 🛰️🌍
-- 🌱 I teach [deep learning](https://github.com/fchouteau/isae-practical-deep-learning), [cloud computing and docker](https://github.com/fchouteau/isae-cloud-computing-class) and [earth observation](https://github.com/fchouteau/isae-otsu) at [ISAE-SUPAERO](https://www.isae-supaero.fr/fr/)
-- 🫱‍🫲 I am a community contributor for [Toulouse Data Science](https://github.com/TlseDataScience)
-- 💡 I am not a big fan of [notebooks](https://www.youtube.com/watch?v=7jiPeIFXb6U) but I understand [their value](https://www.youtube.com/watch?v=9Q6sLbz37gk)
+👨‍💻 I work in Artificial Intelligence 🤖 applied to  Earth Observation 🛰️🌍
 
-<h3><b>Technical Stack</b></h3>
+🌱 I teach [deep learning](https://github.com/fchouteau/isae-practical-deep-learning), [cloud computing and docker](https://github.com/fchouteau/isae-cloud-computing-class) and [earth observation](https://github.com/fchouteau/isae-otsu) at [ISAE-SUPAERO](https://www.isae-supaero.fr/fr/)
+
+🫱‍🫲 I am a community contributor for [Toulouse Data Science](https://github.com/TlseDataScience)
+
+💡 Interesting links that I'd like to share with you
+* Jupyter notebooks [can prove harmful](https://www.youtube.com/watch?v=7jiPeIFXb6U) but at the same time they are so [important](https://www.youtube.com/watch?v=9Q6sLbz37gk). About that, I find [jupytext](https://github.com/mwouts/jupytext) very useful
+* [A recipe for training neural networks](http://karpathy.github.io/2019/04/25/recipe/) is still my go to resource. *After all this time ? Always.*
+* I like to my prompt with [tools that simplify my life](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/) and I love 🧛 [Dracula theme](https://draculatheme.com/)
+
+<h3><b>What I'm working with</b></h3>
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
