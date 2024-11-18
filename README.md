@@ -11,7 +11,8 @@
 💡 Interesting links that I'd like to share with you
 * Jupyter notebooks [can prove harmful](https://www.youtube.com/watch?v=7jiPeIFXb6U) but at the same time they are so [important](https://www.youtube.com/watch?v=9Q6sLbz37gk). About that, I find [jupytext](https://github.com/mwouts/jupytext) very useful
 * [A recipe for training neural networks](http://karpathy.github.io/2019/04/25/recipe/) is still my go to resource. *After all this time ? Always.*
-* I like to my prompt with [tools that simplify my life](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/) and I love 🧛 [Dracula theme](https://draculatheme.com/)
+* I like to customise my prompt with [tools that simplify my life](https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/) and I love 🧛 [Dracula theme](https://draculatheme.com/)
+* I love [gitmojis 🤩](https://gitmoji.dev/)
 
 <h3><b>What I'm working with</b></h3>
 
@@ -35,7 +36,7 @@
 <a href="https://github.com/fchouteau" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/florientchouteau" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/foxchouteau" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
+<a href="https://bsky.app/profile/fchouteau.bsky.social" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white" /></a> 
 </p>
 
 <h3><b>GitHub Stats</b></h3>
